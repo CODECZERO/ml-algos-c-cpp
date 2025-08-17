@@ -81,7 +81,8 @@ X,Y,Prediction,Error
 We also provide a **Python script** (`compare.py`) to validate results against `scikit-learn`’s `LinearRegression`.
 
 ```bash
-python compare.py input.csv output.csv
+python test.py
+python test1.py
 ```
 
 This script:
