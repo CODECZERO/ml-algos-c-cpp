@@ -15,7 +15,7 @@ The goal is to understand how ML works under the hood by building everything ste
 ---
 
 ## 🚀 Algorithms Implemented
-- [ ] Linear Regression  
+- [x] Linear Regression  
 - [ ] Logistic Regression  
 - [ ] K-Nearest Neighbors (KNN)  
 - [ ] Naive Bayes  
