@@ -78,7 +78,7 @@ X,Y,Prediction,Error
 
 ## 📊 Python Comparison
 
-We also provide a **Python script** (`compare.py`) to validate results against `scikit-learn`’s `LinearRegression`.
+We also provide a **Python script** (`test.py and test1.py`) to validate results against `scikit-learn`’s `LinearRegression`.
 
 ```bash
 python test.py
